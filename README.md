@@ -1,15 +1,57 @@
-<h1 align = "center">Hi 👋 We Are HICA_SSPU</h1>
-<h3 align="center">By The Students For The Students</h3> 
-<img align= "right" alt="Coding" width="1000" src="https://media.licdn.com/dms/image/v2/D4D22AQHcBibVnDN9Uw/feedshare-shrink_800/feedshare-shrink_800/0/1728638378776?e=2147483647&v=beta&t=kZlxbBRbLZy5pYri_9vP9M_mlCZGkohlifIXCmysBvk">
+# Cyber Genesis 🚀
+
+**Cyber Genesis** is a 10-day series designed to guide beginners on their journey into the world of Cybersecurity. Whether you're a tech enthusiast, a student, or a budding hacker, this series provides structured and practical learning to kickstart your cybersecurity career.
+
+---
+
+## 🚀 About the Series
+
+Cyber Genesis is an initiative by **[Varad Mene](https://github.com/menevarad007)**, an Ethical Hacker and Security Researcher, to make cybersecurity education accessible, engaging, and impactful. This 10-day series is designed to introduce essential cybersecurity concepts, tools, and techniques in a beginner-friendly way.
+
+---
+
+## 🔥 What You'll Learn
+
+Here’s what you’ll gain from this 10-day journey:
+
+1. **Cybersecurity Basics**
+2. **Networking Essentials**  
+3. **Linux for Hackers**  
+4. **Windows Security 101**  
+5. **Web Application Security**  
+6. **Introduction to Ethical Hacking**  
+7. **Cryptography Fundamentals**  
+8. **Cyber Threat Intelligence**  
+9. **Bug Bounty Hunting** 
+10. **Career in Cybersecurity** 
+
+---
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hica-sspu&label=Profile%20views&color=0e75b6&style=flat" alt="hica-sspu" /> </p>
+## 🛠 Tools You'll Need
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/company/hica-sspu/mycompany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/hica-sspu/mycompany/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/hica_sspu?igsh=mwvmdw1uatd6y2z5bw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hica_sspu?igsh=mwvmdw1uatd6y2z5bw==" height="30" width="40" /></a>
-</p>
+- A laptop or PC with internet access  
+- Virtualization software (e.g., VirtualBox or VMware)  
+- Tools such as Nmap, Burp Suite, and Wireshark (installation guides included in the series)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hica-sspu&show_icons=true&locale=en" alt="hica-sspu" /></p>
+---
 
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions, corrections, or additional resources to share, feel free to open a pull request.
+
+---
+
+## 📢 About the Author
+
+This series is created by **[Varad Mene](https://github.com/varadmene)**, an Ethical Hacker dedicated to enhancing cybersecurity awareness.  
+Connect with me:  
+- [GitHub](https://github.com/menevarad007)  
+- [LinkedIn](http://www.linkedin.com/in/varadmene)  
+- [Twitter](https://x.com/varad_mene)
+
+---
+
+## 🌟 Support
+
+If you find this repository helpful, please star ⭐ it and share it with others in the cybersecurity community. Together, let’s make the digital world safer!
